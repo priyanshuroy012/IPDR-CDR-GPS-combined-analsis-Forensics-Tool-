@@ -37,11 +37,9 @@ When combined with **GPS** and **CDR** data, the module can:
 ---
 
 ## 📂 Input Format
-**CSV Columns** (Required):
+**CSV Columns  (Required):
 ```text
 timestamp, ip_address, port, session_duration, device_id, imsi, imei
-
-
 
 
 🛠 How It Works
