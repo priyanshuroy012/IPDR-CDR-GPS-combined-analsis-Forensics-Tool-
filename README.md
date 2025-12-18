@@ -11,6 +11,9 @@ When combined with **GPS** and **CDR** data, the module can:
 - Map user activity across **time, network, and location** dimensions.
 - Detect possible **SIM swaps, IP spoofing, and abnormal travel patterns**.
 - Correlate internet activity with **physical presence** for investigative leads.
+<img width="514" height="155" alt="image" src="https://github.com/user-attachments/assets/5b1e0c7f-5463-43cc-b95d-6daeced38b0b" />
+<img width="509" height="221" alt="image" src="https://github.com/user-attachments/assets/5b2d3ae9-8886-4684-a0e3-5217b4886b2a" />
+
 
 ---
 
@@ -23,16 +26,23 @@ When combined with **GPS** and **CDR** data, the module can:
   - Impossible travel distances between logins.
   - Multiple IP addresses from different regions in short intervals.
   - Mismatches between GPS location and IP geolocation.
+  - <img width="478" height="278" alt="image" src="https://github.com/user-attachments/assets/262fc3f4-86c0-4731-bb55-672c8e879ac1" />
+
 
 - **Visualization**  
   Interactive timeline & map for:
   - Session start/end times.
   - IP location plotting.
   - Behavioral profile clusters.
+  - <img width="469" height="247" alt="image" src="https://github.com/user-attachments/assets/8cc08960-d0f7-4b16-9299-611d5af16f87" />
+
 
 - **Forensic Output**  
   - Highlighted suspicious events.
   - Exportable CSV & unified PDF report integration.
+ 
+  - <img width="496" height="242" alt="image" src="https://github.com/user-attachments/assets/ed588512-7a2b-47ac-9577-7aac56b651a0" />
+
 
 ---
 
