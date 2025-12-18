@@ -92,8 +92,7 @@ Inside DIFA:
 
 streamlit run app.py
 # Select IPDR Integration from module drawer
-📄 License
-MIT License – see LICENSE for details.
+
 
 yaml
 
