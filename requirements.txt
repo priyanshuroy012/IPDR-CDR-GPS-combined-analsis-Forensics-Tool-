@@ -1,67 +1,14 @@
-pyshark
-adbutils
-
-cryptography
-#config
-dotenv
-plotly.express
-#libpcap
 streamlit
-fpdf
+pandas
+numpy
+scikit-learn
 altair
 folium
 streamlit-folium
+google-generativeai==0.7.2
 geopy
+requests
 haversine
 branca
-PyPDF2
-regex
-pyOpenSSL
-# --- Core Streamlit App ---
-streamlit-option-menu
-streamlit-folium
-
-# --- Data Handling ---
-pandas
-numpy
-openpyxl
-python-docx
-python-pptx
 fpdf
-PyMuPDF
-matplotlib
-seaborn
-
-# --- ML / NLP ---
-scikit-learn
-joblib
-transformers
-torch
-sentencepiece
-
-# --- Forensics & Network ---
-ipwhois
-scapy
-pyshark
-tldextract
-
-# --- ADB & Filesystem ---
-adb-shell
-python-magic-bin  # Optional for MIME detection (Windows)
-psutil
-
-# --- Security & Hashing ---  # builtin (no pip)
-pyzipper  # for secure zip handling
-
-# --- Dev Tools ---
-tqdm
-altair
-jinja2
-requests
-
-# --- SQLite & DB ---
-sqlite-utils
-
-# --- Optional ---
-# pytesseract==0.3.10   # Uncomment if OCR support is needed
-# rarfile==4.0          # For .rar archive support
+PyPDF2
